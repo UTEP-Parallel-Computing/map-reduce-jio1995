@@ -1,0 +1,27 @@
+Jiovani Hernandez
+
+•	What problems you encountered completing the assignment and how you overcame them  
+Ran the first test and it wasn’t giving me the right counts and I ran it several times and it was working properly, displaying the right count of words
+
+•	Any problems you weren't able to overcome or any bugs still left in the program  
+No problems
+
+•	About how long it took you to complete the assignment  
+Several days but adding the time it was like 7 hours minimum
+
+•	Performance measurements (given in seconds) for 1, 2, 4, and 8 threads  
+Thread Time 
+ 1     1.7238   
+ 2     1.7955    
+ 4     0.9898    
+ 8     1.1363    
+
+•	A short analysis of why the program behaves as it does with an increasing number of threads  
+Based on the times that I ran, and I ran it a few times it all varies, it was never constant. And no matter how many threads it had it still varied, sometimes 4 threads was faster than 8. Might be because of the time function that I used?
+
+•	Any observations or comments you had while doing the assignment  
+Sometimes the times of the execution depending on the threads weren’t consistent
+
+•	Output from the dumpCPUInfo.sh program   
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
